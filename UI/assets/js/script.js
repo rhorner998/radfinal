@@ -14,6 +14,5 @@ function login() {
         return;
     }
 
-
     window.location.href = 'welcome.html';// If validation passes, redirect to welcome.html
 }
